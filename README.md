@@ -5,8 +5,8 @@
 - 🎟️ Estudando JavaScript
 
   <a href="https://github.com/vitorpachecoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=16&theme=rose_pine"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=16&theme=rose_pine"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
