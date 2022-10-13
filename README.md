@@ -3,7 +3,7 @@
 ```
 - ⚡ Buscando sempre algo novo para aprender
 - 🌱 "A raízes do estudo são amargas, mas seus frutos são doces" -Aristóteles
-- 🖼️ Estudando Front-End 
+- 🖼️ Front-End 
 - 🚩 Caxias do Sul - RS
 ```
 
