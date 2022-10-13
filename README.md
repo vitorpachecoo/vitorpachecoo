@@ -6,12 +6,12 @@
 - 🖼️ Front-End 
 - 🚩 Caxias do Sul - RS
 ```
-
+<div align="center">
   <a href="https://github.com/vitorpachecoo">
-  <img width="50%" height="190em" margin="0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=16&theme=rose_pine"/>
-  <img width="44%" height="200em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
