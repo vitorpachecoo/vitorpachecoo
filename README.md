@@ -4,7 +4,7 @@
 - ⚡ Buscando sempre algo novo para aprender
 - 🌱 "A raízes do estudo são amargas, mas seus frutos são doces" -Aristóteles
 - 💎 ReactJS
-- 🚩 Caxias do Sul - RS
+- 🚩 20 years
 ```
 <div align="left">
   <a href="https://github.com/vitorpachecoo">
