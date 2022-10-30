@@ -10,9 +10,9 @@ align="left"
 
 <div style="display: inline_block">
   <a href="https://github.com/vitorpachecoo">
-  <img width="36%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img width="36%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
-    <img align="center" width="25%" height="320em" src="https://i.pinimg.com/564x/16/19/1a/16191a9dc3805c740c5a54c7f00480d1.jpg">
+  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+    <img align="center" width="25%" border-radius="25%" height="250px" src="https://i.pinimg.com/564x/16/19/1a/16191a9dc3805c740c5a54c7f00480d1.jpg">
     
 </div>
 
