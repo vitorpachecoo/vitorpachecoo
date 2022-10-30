@@ -6,24 +6,23 @@
 - 💎 ReactJS
 - 🚩 20 years
 ```
-align="left"
 
 <div style="display: inline_block">
   <a href="https://github.com/vitorpachecoo">
-  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
-    <img align="center" width="25%" border-radius="25%" height="250px" src="https://i.pinimg.com/564x/16/19/1a/16191a9dc3805c740c5a54c7f00480d1.jpg">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img align="center" width="25%" height="250px" src="https://i.pinimg.com/564x/16/19/1a/16191a9dc3805c740c5a54c7f00480d1.jpg">
     
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <!--<img align="right" alt="Vitor-gif" src="https://assets.pinterest.com/ext/embed.html?id=8444318040395216">-->
-</div>
+  <img align="center" alt="Vitor-HTML" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vitor-Js" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vitor-react" height="30" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Vitor-Python" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitor-SQL" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  </div>
 
 ##
 
