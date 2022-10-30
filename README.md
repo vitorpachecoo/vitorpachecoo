@@ -10,7 +10,7 @@
   <a href="https://github.com/vitorpachecoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
-    <img align="center" margin="50px" width="230px" border-radius="50%" src="https://i.pinimg.com/564x/16/19/1a/16191a9dc3805c740c5a54c7f00480d1.jpg">
+    <img vertical-align="top"  margin="50px" width="230px" border-radius="50%" src="https://i.pinimg.com/564x/16/19/1a/16191a9dc3805c740c5a54c7f00480d1.jpg">
     
 </div>
 
