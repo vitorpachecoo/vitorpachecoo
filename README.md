@@ -24,7 +24,7 @@
 
 ##
   
-  <img align="center" width="25%" height="250px" src="https://i.pinimg.com/564x/16/19/1a/16191a9dc3805c740c5a54c7f00480d1.jpg">
+  <img align="center" width="50%" height="200px" src="https://i.pinimg.com/originals/82/15/76/821576373678013ee992faa0eba4e292.gif">
 
 <div>
   <a href="https://instagram.com/xvitorp" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
