@@ -3,7 +3,7 @@
 ```
 - ⚡ Buscando sempre algo novo para aprender
 - 🌱 "A raízes do estudo são amargas, mas seus frutos são doces" -Aristóteles
-- 💎 ReactJS
+- 💎 React
 - 🚩 20 years
 ```
 
