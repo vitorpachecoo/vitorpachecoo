@@ -3,7 +3,6 @@
 ```
 - ⚡ Buscando sempre algo novo para aprender
 - 🌱 "A raízes do estudo são amargas, mas seus frutos são doces" -Aristóteles
-- 💎 React
 - 🚩 20 years
 ```
 
@@ -24,7 +23,7 @@
 
 ##
   
-  <img align="center" width="60%" height="200px" src="https://i.pinimg.com/originals/82/15/76/821576373678013ee992faa0eba4e292.gif">
+ <!-- <img align="center" width="60%" height="200px" src="https://i.pinimg.com/originals/82/15/76/821576373678013ee992faa0eba4e292.gif"> -->
   
 ![Snake animation](https://github.com/vitorpachecoo/vitorpachecoo/blob/output/github-contribution-grid-snake.svg)
   
