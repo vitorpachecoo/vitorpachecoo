@@ -22,7 +22,9 @@
   <img align="center" alt="Vitor-sql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img  align="center" alt="Vitor-NODE" height="40" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   </div>
-
+  
+##
+  
   ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
   
 ##
