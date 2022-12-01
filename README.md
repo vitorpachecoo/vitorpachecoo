@@ -13,17 +13,19 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center"alt="Vitor-HTML" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Js" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-TYPE" height="40" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Vitor-react" height="40" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Vitor-Python" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-postgr" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Vitor-sql" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center"alt="Vitor-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitor-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vitor-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vitor-TYPE" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Vitor-react" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Vitor-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitor-postgr" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Vitor-sql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img  align="center" alt="Vitor-NODE" height="40" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   </div>
 
+  ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+  
 ##
   
  <!-- <img align="center" width="60%" height="200px" src="https://i.pinimg.com/originals/82/15/76/821576373678013ee992faa0eba4e292.gif"> -->
