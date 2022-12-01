@@ -3,7 +3,6 @@
 ```
 - ⚡ Buscando sempre algo novo para aprender
 - 🌱 "A raízes do estudo são amargas, mas seus frutos são doces" -Aristóteles
-- 🚩 20 years
 ```
 
 <div style="display: inline_block">
