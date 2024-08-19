@@ -19,7 +19,7 @@
   <img align="center" alt="Vitor-TYPE" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Vitor-react" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Vitor-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-sql" height="50" width="70" src="https://img.icons8.com/?size=100&id=77694&format=png&color=000000" />
+  <img align="center" alt="Vitor-sql" height="50" width="70" src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" />
   <img  align="center" alt="Vitor-NODE" height="40" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 
   
