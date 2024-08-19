@@ -1,7 +1,6 @@
 <h1> Hello World!</h1>
 
 ```
-- 💎 Desenvolvedor Web
 - ⚡ Buscando sempre algo novo para aprender
 - 🌱 "A raízes do estudo são amargas, mas seus frutos são doces" -Aristóteles
 - 📌 Caxias do Sul - RS
