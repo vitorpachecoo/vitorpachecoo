@@ -8,8 +8,8 @@
 ## 🚀 Linguagens Principais
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java" alt="HTML, CSS, JavaScript, Java" width="120" />
-  <img src="https://img.shields.io/badge/PL/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" width="120" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" alt="HTML, CSS, JavaScript, Java" width="150" />
+  <img src="https://img.shields.io/badge/PL/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" width="150" />
 </div>
 
 ---
