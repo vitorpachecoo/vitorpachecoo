@@ -32,27 +32,28 @@
   </a>
 </div>
 
----
-
-## 🎮 Pixel Art para Inspirar
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/W9_8dfFmyr0AAAAd/pixel-game.gif" width="80%" alt="Pixel Art" />
-</div>
-
----
-
 ## 📚 Alguns Projetos
 
 - [**PicPay Simplificado**](link-do-repositorio): Plataforma de pagamentos simplificada.
 - [**Plataforma de Jogos**](link-do-repositorio): Plataforma para informações e atualizações sobre jogos.
 - [**Recomendações de Filmes**](link-do-repositorio): Sistema para recomendação de filmes com base em prompts criativos.
 
+
+---
+
+## 🎮 Pixel Art para Inspirar
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/W9_8dfFmyr0AAAAd/pixel-game.gif" width="50%" alt="Pixel Art" />
+</div>
+
 ---
 
 <div align="center">
   <i>Curioso para ver mais? Dê uma olhada nos meus projetos!</i>
 </div>
+
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorpachecoo&repo=seu-repositorio&theme=radical)](https://github.com/vitorpachecoo/InvestX)
