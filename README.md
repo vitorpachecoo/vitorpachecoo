@@ -52,12 +52,6 @@
 <div align="center">
   <i>Curioso para ver mais? Dê uma olhada nos meus projetos!</i>
 </div>
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorpachecoo&repo=seu-repositorio&theme=radical)](https://github.com/vitorpachecoo/InvestX)
-
   
 ![Snake animation](https://github.com/vitorpachecoo/vitorpachecoo/blob/output/github-contribution-grid-snake.svg)
   
