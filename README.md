@@ -37,7 +37,7 @@
 ## 🎮 Pixel Art para Inspirar
 
 <div align="center">
-  <img src="[https://i.pinimg.com/originals/8c/53/6c/8c536c83c36f98a642b3e1db9ef5ef14.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsasek-zemniprace.cz%2FComputer-GIFs-2814286.htm&psig=AOvVaw31KQFYNhnmPWiP-r-b2fXG&ust=1739555570501000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCrwdCbwYsDFQAAAAAdAAAAABA4)" width="80%" alt="Pixel Art" />
+  <img src="https://i.pinimg.com/originals/8c/53/6c/8c536c83c36f98a642b3e1db9ef5ef14.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsasek-zemniprace.cz%2FComputer-GIFs-2814286.htm&psig=AOvVaw31KQFYNhnmPWiP-r-b2fXG&ust=1739555570501000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCrwdCbwYsDFQAAAAAdAAAAABA4)" width="80%" alt="Pixel Art" />
 </div>
 
 ---
