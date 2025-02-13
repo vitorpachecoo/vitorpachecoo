@@ -1,36 +1,55 @@
-<h1> Hello World!</h1>
+# 👋 Olá, eu sou o Vitor Pacheco!
 
-```
-- ⚡ Buscando sempre algo novo para aprender
-- 🌱 "A raízes do estudo são amargas, mas seus frutos são doces" -Aristóteles
-- 📌 Caxias do Sul - RS
-```
+> _"Buscando sempre algo novo para aprender."_  
+> _"As raízes do estudo são amargas, mas seus frutos são doces." - Aristóteles_
 
-<div style="display: inline_block">
-  <a href="https://github.com/vitorpachecoo">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpachecoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+### 🌍 Localização:  
+📍 **Caxias do Sul - RS**
+
+---
+
+## 🚀 Minhas Habilidades
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,python,sql,nodejs" alt="Minhas Habilidades" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center"alt="Vitor-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-TYPE" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Vitor-react" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Vitor-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-sql" height="50" width="70" src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" />
-  <img  align="center" alt="Vitor-NODE" height="40" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+---
 
-  
-  </div>
-  
-##
+## 📊 Linguagens Mais Usadas
 
-  
-  ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
-  
-##
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&theme=radical)
+
+---
+
+## 🌌 Um Pouco Sobre Mim:
+🎯 **Objetivo Profissional:** Obter o máximo de conhecimento para ser melhor do que ontem.  
+🎮 **Hobbies:** Gamer e apaixonado por tecnologia.  
+
+---
+
+## 📫 Onde Me Encontrar:
+<div align="center">
+  <a href="https://www.instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:pachecovitor1210@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitorpacheco-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🎮 Pixel Art & Vibez  
+<img src="https://i.pinimg.com/originals/8c/53/6c/8c536c83c36f98a642b3e1db9ef5ef14.gif" width="100%" alt="Pixel Art" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorpachecoo&repo=seu-repositorio&theme=radical)](https://github.com/vitorpachecoo/seu-repositorio)
+
+
+
+
   
  <!-- <img align="center" width="60%" height="200px" src="https://i.pinimg.com/originals/82/15/76/821576373678013ee992faa0eba4e292.gif"> -->
   
