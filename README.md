@@ -3,47 +3,37 @@
 > _"Buscando sempre algo novo para aprender."_  
 > _"As raízes do estudo são amargas, mas seus frutos são doces." - Aristóteles_
 
-### 🌍 Localização:  
-📍 **Caxias do Sul - RS**
-
 ---
 
-## 🚀 Minhas Habilidades
+## 🚀 Linguagens Principais
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,python,sql,nodejs" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" alt="HTML, CSS, JavaScript, Java" />
+  <img src="https://img.shields.io/badge/PL/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
 </div>
 
 ---
 
-## 📊 Linguagens Mais Usadas
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpachecoo&layout=compact&theme=radical)
-
----
-
-## 🌌 Um Pouco Sobre Mim:
+## 🌌 Um Pouco Sobre Mim
 🎯 **Objetivo Profissional:** Obter o máximo de conhecimento para ser melhor do que ontem.  
-🎮 **Hobbies:** Gamer e apaixonado por tecnologia.  
+📍 **Localização:** Caxias do Sul - RS  
 
 ---
 
 ## 📫 Onde Me Encontrar:
 <div align="center">
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vitorpacheco-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pachecovitor1210@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vitorpacheco-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🎮 Pixel Art & Vibez  
+## 🎮 Pixel Art para Inspirar
 <img src="https://i.pinimg.com/originals/8c/53/6c/8c536c83c36f98a642b3e1db9ef5ef14.gif" width="100%" alt="Pixel Art" />
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorpachecoo&repo=seu-repositorio&theme=radical)](https://github.com/vitorpachecoo/seu-repositorio)
 
